@@ -8,7 +8,9 @@ The ideal situation is that Alice trains a model and releases the weights along 
 
 ## Related work
 [1] https://arxiv.org/abs/2307.16273 -- Zero knowledge proofs of deep learning **training**. Supports only "arithmetic operations" -- in this case, ReLU activation and MSE loss.
+
 [2] https://arxiv.org/abs/2404.16109 -- Zero knowledge proofs of LLM **inference**.
+
 [3] https://eprint.iacr.org/2024/703.pdf -- Zero knowledge proofs of deep learning **inference**, supporting softmax and other activations
 
 ## What may be possible given just these
