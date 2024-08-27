@@ -2,3 +2,5 @@
 *.pf
 *.vk
 *.pk
+*.onnx
+*.compiled
